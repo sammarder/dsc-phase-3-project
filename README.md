@@ -4,9 +4,11 @@
 
 ## Overview
 
+We are looking at data across all states and DC to determine what causes customers to churn so we could better inform our sales strategy towards customer retention.
 
 ## Business Understanding
 
+Verizon has customers across the nation, our data reflects a sample of customers from an unknown carrier
 
 ## Data Understanding
 
