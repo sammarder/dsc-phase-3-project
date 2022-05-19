@@ -17,8 +17,9 @@ We are given data for customer churn by an unknown carrier across the entire US 
 ## Modeling
 
 
-## Regression Results
+## Evaluation
 
+I chose to evaluate based on recall because we care about how well we can tell if a customer will churn. 
 
-## Conclusion
+## Recommendations
 
